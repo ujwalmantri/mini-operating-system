@@ -1,0 +1,9 @@
+# Build outputs (rebuilt from source, never committed)
+build/
+*.o
+*.elf
+*.img
+*.iso
+# Editor Leftovers
+*.swp
+*~
