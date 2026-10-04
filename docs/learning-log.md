@@ -43,11 +43,29 @@ Important concepts:
 
 - file descriptors (stdout vs stderr), PATH lookup, recursive rm/ls
 
+Problems I encountered:
+- None
 
 Problems I encountered:
+- 
 
-None
+## Day 3
+
+What I learned:
+- Binary and hex as positional number systems; why CPUs use binary
+- Bit / nibble / byte terminology
+- Fast binary<->hex conversion via nibble splitting
+- Decimal<->hex conversion, and recognizing 0x1000/0x10000 on sight
+- Preview: bitwise AND/OR/shift, and signed vs unsigned interpretation of the same bits
+
+What I built:
+- docs/number-systems-cheatsheet.md
+
+Important concepts:
+- two's complement (signed vs unsigned), bit masking
 
 Problems I encountered:
+- None
 
+How I solved them:
 -
