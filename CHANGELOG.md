@@ -11,3 +11,9 @@
 - Learned binary, hex, bits/nibbles/bytes, and fast nibble-based conversion.
 - Previewed bitwise AND/OR/shift and signed vs unsigned interpretations.
 - Added docs/number-system-cheatsheet.md.
+
+## Day 04
+- Learned fetch-decode-execute cycle, registers, EIP, memory-as-byte-array, addresses.
+- Previewed the stack and 32-bit addressing range.
+- Used GDB to inspect live registers and variable addresses.
+- Added docs/cpu-memory-cheatsheet.md.

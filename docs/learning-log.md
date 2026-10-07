@@ -69,3 +69,24 @@ Problems I encountered:
 
 How I solved them:
 -
+## Day 4
+
+What I learned:
+- Fetch-decode-execute cycle
+- Registers vs RAM, and key x86 registers (EAX, ESP, EBP, EIP, EFLAGS)
+- EIP as "address of next instruction"; jumps as "overwrite EIP"
+- Memory as a numbered byte array; addresses
+- Stack preview (LIFO, ESP = top)
+- Basic GDB: break, run, next, info registers, print, print &var
+
+What I built:
+- docs/cpu-memory-cheatsheet.md
+
+Important concepts:
+- program counter / instruction pointer, address-of operator (&)
+
+Problems I encountered:
+None
+
+How I solved them:
+-
